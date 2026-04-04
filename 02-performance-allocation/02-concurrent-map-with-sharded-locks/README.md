@@ -51,3 +51,5 @@ Implement `ShardedMap[K comparable, V any]` with configurable shard count that p
 * [Go Maps Don't Appear to be O(1)](https://dave.cheney.net/2018/05/29/how-the-go-runtime-implements-maps-efficiently-without-generics)
 * [When to use sync.Map](https://dave.cheney.net/2017/07/30/should-i-use-sync-map)
 * [Practical Sharded Maps](https://github.com/orcaman/concurrent-map)
+* [Reading Go Benchmark Output (Part One): Memory](https://farbodahm.me/posts/reading-go-benchmark-output-memory/)
+* [Reading Go Benchmark Output (Part Two): CPU Profiling](https://farbodahm.me/posts/reading-go-benchmark-output-cpu/)
